@@ -4,6 +4,7 @@ HTML and CSS Grid exercise to create a single, fixed width, mobile-sized web pag
 # Adobe XD Wireframe
 [Click me!](https://xd.adobe.com/view/58fb7f68-3016-42b1-b5d6-b2d954db67f1-0da8/)
 
+# Download
  ```
 # Pick the location of where this repository will be downloaded, for example purposes this will be on your desktop
 
@@ -17,5 +18,4 @@ $ git clone
 $ cd siy_lalaine_Typography
 
 ```
-Web Development 1
-HW #1 - Folder Set Up & Typography
+Web Development 1: HW #1 - Folder Set Up & Typography
