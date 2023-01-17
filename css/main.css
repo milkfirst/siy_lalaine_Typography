@@ -28,7 +28,8 @@ img {
 
 p   {
     font-family: 'Catamaran', sans-serif;
-    line-height: 20px;
+    line-height: 30px;
+    font-weight: 600;
     text-align: center;
 }
 
@@ -60,6 +61,8 @@ p   {
     padding: 40px 45px;
     text-align: center;
     color: white;
+    font-weight: 300;
+    line-height: 20px;
 }
 
 .orange-bg {
